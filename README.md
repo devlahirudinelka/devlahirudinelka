@@ -15,7 +15,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=CSS3&logoColor=1572B6)&nbsp;
 ![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat-square&logo=SASS&logoColor=1572B6)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat-square&logo=Bootstrap&logoColor=1572B6)&nbsp;
-![WebPac](https://img.shields.io/badge/-Bootstrap-05122A?style=flat-square&logo=Bootstrap&logoColor=1572B6)&nbsp;
+![WebPack](https://img.shields.io/badge/-WebPack-05122A?style=flat-square&logo=WebPack&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=javascript)&nbsp;
 ![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat-square&logo=JSON)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MondoDB-05122A?style=flat-square&logo=MongoDB)&nbsp;
