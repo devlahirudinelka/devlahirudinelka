@@ -50,8 +50,6 @@
 
 ## :link: Connect with me:
 
-##
-
 <p align="center" style="background:blue">
   <a href="https://www.instagram.com/lahirud.k.yapa/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-lahirud.k.yapa-05122A?style=flat&logo=instagram" alt="instagram"/>
