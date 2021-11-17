@@ -39,6 +39,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat-square&logo=AndroidStudio)&nbsp;
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-05122A?style=flat-square&logo=IntelliJIDEA)&nbsp;
+![PhpStorm](https://img.shields.io/badge/-PhpStorm-05122A?style=flat-square&logo=PhpStorm)&nbsp;
 ![iOS](https://img.shields.io/badge/-iOS-05122A?style=flat-square&logo=Apple)&nbsp;
 ![Android](https://img.shields.io/badge/-Android-05122A?style=flat-square&logo=Android)&nbsp;
 
