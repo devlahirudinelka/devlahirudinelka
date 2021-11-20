@@ -17,6 +17,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat-square&logo=Bootstrap&logoColor=1572B6)&nbsp;
 ![WebPack](https://img.shields.io/badge/-WebPack-05122A?style=flat-square&logo=WebPack&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat-square&logo=TypeScript)&nbsp;
 ![JQuery](https://img.shields.io/badge/-JQuery-05122A?style=flat-square&logo=jQuery)&nbsp;
 ![NPM](https://img.shields.io/badge/-npm-05122A?style=flat-square&logo=npm)&nbsp;
 ![YARN](https://img.shields.io/badge/-yarn-05122A?style=flat-square&logo=yarn)&nbsp;
@@ -39,6 +40,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat-square&logo=AndroidStudio)&nbsp;
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-05122A?style=flat-square&logo=IntelliJIDEA)&nbsp;
+![WebStorm](https://img.shields.io/badge/-WebStorm-05122A?style=flat-square&logo=WebStorm)&nbsp;
 ![PhpStorm](https://img.shields.io/badge/-PhpStorm-05122A?style=flat-square&logo=PhpStorm)&nbsp;
 ![iOS](https://img.shields.io/badge/-iOS-05122A?style=flat-square&logo=Apple)&nbsp;
 ![Android](https://img.shields.io/badge/-Android-05122A?style=flat-square&logo=Android)&nbsp;
