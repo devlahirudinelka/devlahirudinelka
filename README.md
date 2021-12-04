@@ -13,16 +13,13 @@
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=CSS3&logoColor=1572B6)&nbsp;
-![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat-square&logo=SASS&logoColor=1572B6)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat-square&logo=Bootstrap&logoColor=1572B6)&nbsp;
 ![WebPack](https://img.shields.io/badge/-WebPack-05122A?style=flat-square&logo=WebPack&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat-square&logo=TypeScript)&nbsp;
-![JQuery](https://img.shields.io/badge/-JQuery-05122A?style=flat-square&logo=jQuery)&nbsp;
 ![NPM](https://img.shields.io/badge/-npm-05122A?style=flat-square&logo=npm)&nbsp;
 ![YARN](https://img.shields.io/badge/-yarn-05122A?style=flat-square&logo=yarn)&nbsp;
 ![EXPO](https://img.shields.io/badge/-Expo-05122A?style=flat-square&logo=expo)&nbsp;
-![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat-square&logo=JSON)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MondoDB-05122A?style=flat-square&logo=MongoDB)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-05122A?style=flat-square&logo=Express)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat-square&logo=react)&nbsp;
@@ -34,7 +31,6 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat-square&logo=FLutter)&nbsp;
 ![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat-square&logo=react)&nbsp;
 ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat-square&logo=Kotlin)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat-square&logo=Java&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat-square&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=visual-studio-code&logoColor=007ACC)&nbsp;
