@@ -40,7 +40,7 @@
 ![PhpStorm](https://img.shields.io/badge/-PhpStorm-05122A?style=flat-square&logo=PhpStorm)&nbsp;
 ![iOS](https://img.shields.io/badge/-iOS-05122A?style=flat-square&logo=Apple)&nbsp;
 ![Android](https://img.shields.io/badge/-Android-05122A?style=flat-square&logo=Android)&nbsp;
-
+![MsSQL](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)&nbsp;
 <br />
 
 ## ⚙️ &nbsp;GitHub Analytics
