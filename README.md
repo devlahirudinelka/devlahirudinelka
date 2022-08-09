@@ -40,7 +40,7 @@
 ![PhpStorm](https://img.shields.io/badge/-PhpStorm-05122A?style=flat-square&logo=PhpStorm)&nbsp;
 ![iOS](https://img.shields.io/badge/-iOS-05122A?style=flat-square&logo=Apple)&nbsp;
 ![Android](https://img.shields.io/badge/-Android-05122A?style=flat-square&logo=Android)&nbsp;
-![Sql](https://img.shields.io/badge/-Sql-05122A?style=flat-square&logo=Sql)&nbsp;
+
 <br />
 
 ## ⚙️ &nbsp;GitHub Analytics
