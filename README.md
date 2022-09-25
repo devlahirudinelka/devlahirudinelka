@@ -6,7 +6,7 @@
 
 ## :man_technologist: I'm a Mobile App Developer & Full Stack Web Developer
 - Mobile App Developer( Flutter / React Native / Kotlin / Native iOs / Native Android)<be />
-- Full Stack Web Developer( MERN / MEAN / MEVN )
+- Full Stack Web Developer( MERN / MEAN / MEVN / Next.js )
  
 
 ## :1st_place_medal: Languages and Tools:
