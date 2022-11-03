@@ -1,6 +1,6 @@
 
 <h1><p align="left">
-  <a href="https://github.com/devlahirudinelka/readme-typing-svg"><img src=https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BB%2C+I+am+Kavindu+Marasinghe></a>
+  <a href="https://github.com/devlahirudinelka/readme-typing-svg"><img src=https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BB%2C+I+am+Lahiru+D+K+Yapa></a>
 </p></h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devlahirudinelka&color=blueviolet" alt="Profile views" /> </p>
 <img align="right" width="300em" height="300em" src="https://github.com/birobirobiro/birobirobiro/blob/master/animation_500_kv8i962g.gif?raw=true"/>
