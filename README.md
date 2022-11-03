@@ -44,8 +44,7 @@
 <br />
 
 # My Github Stats
-<a href="http://www.github.com/devlahirudinelka"><img src="https://github-readme-stats.vercel.app/api?username=devlahirudinelka&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="devlahirudinelka's GitHub stats" /></a>
-<a href="http://www.github.com/devlahirudinelka"><img src="https://github-readme-streak-stats.herokuapp.com/?user=devlahirudinelka&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+![](https://github-readme-stats.vercel.app/api?username=devlahirudinelka&show_icons=true&&hide_border=true&bg_color=0D1117&text_color=ffffff)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devlahirudinelka&layout=compact&theme=dark&hide_border=true&bg_color=0D1117)](https://github.com/devlahirudinelka/github-readme-stats)
 
 [![devlahirudinelka's github activity graph](https://activity-graph.herokuapp.com/graph?username=devlahirudinelka&theme=react-dark)](https://github.com/devlahirudinelka/github-readme-activity-graph)
