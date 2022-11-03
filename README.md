@@ -48,10 +48,12 @@
 <a href="http://www.github.com/devlahirudinelka"><img src="https://github-readme-streak-stats.herokuapp.com/?user=devlahirudinelka&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devlahirudinelka&layout=compact&theme=dark&hide_border=true&bg_color=0D1117)](https://github.com/devlahirudinelka/github-readme-stats)
 
+[![devlahirudinelka's github activity graph](https://activity-graph.herokuapp.com/graph?username=devlahirudinelka&theme=react-dark)](https://github.com/devlahirudinelka/github-readme-activity-graph)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=devlahirudinelka&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
-[![devlahirudinelka's github activity graph](https://activity-graph.herokuapp.com/graph?username=devlahirudinelka&theme=react-dark)](https://github.com/devlahirudinelka/github-readme-activity-graph)
+
 
 ## :link: Connect with me:
 
