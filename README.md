@@ -8,7 +8,7 @@
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/LahiruYapa2?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/LahiruYapa2) -->
 
 # I'm a Mobile App Developer & Full Stack Web Developer
-- Mobile App Developer( Flutter / React Native / Kotlin / Native iOs / Native Android)<be />
+- Mobile App Developer( Flutter / React Native / Kotlin / Native iOs / Native Android / Java )<be />
 - Full Stack Web Developer( MERN / MEAN / MEVN / Next.js )
  
 
