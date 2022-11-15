@@ -26,6 +26,7 @@
 ![MongoDB](https://img.shields.io/badge/-MondoDB-05122A?style=flat-square&logo=MongoDB)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-05122A?style=flat-square&logo=Express)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat-square&logo=react)&nbsp;
+![Next](https://img.shields.io/badge/-React-05122A?style=flat-square&logo=next)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat-square&logo=Angular)&nbsp;
 ![VueJS](https://img.shields.io/badge/-Vue.JS-05122A?style=flat-square&logo=Vue.JS)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat-square&logo=node.js)&nbsp;
