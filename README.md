@@ -57,7 +57,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=devlahirudinelka&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
-
+<a href="https://app.daily.dev/devlahirudinelka"><img src="https://api.daily.dev/devcards/fd2aaf6522024e058edb57d681092190.png?r=r7w" width="400" alt="Lahiru D K Yapa's Dev Card"/></a>
 
 ## :link: Connect with me:
 
