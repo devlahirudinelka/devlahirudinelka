@@ -1,97 +1,184 @@
-![Profile visitors](https://visitor-badge.glitch.me/badge?page_id=devlahirudinelka.visitor-badge)
 <h1><p align="left">
   <a href="https://github.com/devlahirudinelka/readme-typing-svg"><img src=https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=600&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BB%2C+I+am+Lahiru+D+K+Yapa></a>
 </p></h1>
+==================================
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=devlahirudinelka&color=blueviolet" alt="Profile views" /> </p> -->
+Software Engineer
+----------------------------------
 <img align="right" width="300em" height="300em" src="https://github.com/birobirobiro/birobirobiro/blob/master/animation_500_kv8i962g.gif?raw=true"/>
-<!-- <h1 align="left">Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I am Lahiru Dinelka Kumara Yapa</h1> -->
-<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/LahiruYapa2?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/LahiruYapa2) -->
 
-# I'm a Mobile App Developer & Full Stack Web Developer
-- Mobile App Developer( Flutter / React Native / Kotlin / Native iOs / Native Android / Java )<be />
-- Full Stack Web Developer( MERN / MEAN / MEVN / Next.js )
- 
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" width= "50%"/>
+</div> 
 
-## :1st_place_medal: Languages and Tools:
+<br/> 
 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=CSS3&logoColor=1572B6)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat-square&logo=Bootstrap&logoColor=1572B6)&nbsp;
-![WebPack](https://img.shields.io/badge/-WebPack-05122A?style=flat-square&logo=WebPack&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat-square&logo=java)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat-square&logo=TypeScript)&nbsp;
-![NPM](https://img.shields.io/badge/-npm-05122A?style=flat-square&logo=npm)&nbsp;
-![YARN](https://img.shields.io/badge/-yarn-05122A?style=flat-square&logo=yarn)&nbsp;
-![EXPO](https://img.shields.io/badge/-Expo-05122A?style=flat-square&logo=expo)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MondoDB-05122A?style=flat-square&logo=MongoDB)&nbsp;
-![Express](https://img.shields.io/badge/-Express-05122A?style=flat-square&logo=Express)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat-square&logo=react)&nbsp;
-![Next](https://img.shields.io/badge/-Next-05122A?style=flat-square&logo=next)&nbsp;
-![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat-square&logo=Angular)&nbsp;
-![VueJS](https://img.shields.io/badge/-Vue.JS-05122A?style=flat-square&logo=Vue.JS)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat-square&logo=node.js)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat-square&logo=PHP)&nbsp;
-![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat-square&logo=Laravel)&nbsp;
-![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat-square&logo=FLutter)&nbsp;
-![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat-square&logo=react)&nbsp;
-![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat-square&logo=Kotlin)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat-square&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat-square&logo=AndroidStudio)&nbsp;
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-05122A?style=flat-square&logo=IntelliJIDEA)&nbsp;
-![WebStorm](https://img.shields.io/badge/-WebStorm-05122A?style=flat-square&logo=WebStorm)&nbsp;
-![PhpStorm](https://img.shields.io/badge/-PhpStorm-05122A?style=flat-square&logo=PhpStorm)&nbsp;
-![iOS](https://img.shields.io/badge/-iOS-05122A?style=flat-square&logo=Apple)&nbsp;
-![Android](https://img.shields.io/badge/-Android-05122A?style=flat-square&logo=Android)&nbsp;
-![MsSQL](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)&nbsp;
-<br />
+I started my coding journey in 2019 when I started doing my degree in Software Engineering. Since then, I prefer to keep learning, continue challenging myself and do interesting things that matter.
+
+<br/>  
+
+*   🌍  I'm based in Colombo, Sri Lanka
+
+*   🖥️  See my portfolio at [https://devlahirudinelka.github.io/](https://devlahirudinelka.github.io/)
+
+*   ✉️  You can contact me at [devlahirudinelka@gmail.com](mailto:devlahirudinelka@gmail.com)
+
+*   😄  Pronouns: He/ Hi,
+
+*   🧠  Currently I'm learning .NET 
+
+*   🤝  I'm open to collaborate on interesting projects
+
+*   ❓   Ask me about anything related to Web Development & Mobile Development
+
+<br/>  
+
+<a href="https://twitter.com/LahiruYapa2_" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/twitter/follow/Rashmi_W_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
+                  
+<!--
+
+## My Skill Set  
+<table><tr><td valign="top" width="100%">
+
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="75" /> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="75" /> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="75" /> 
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" height="75" alt="TailwindCSS" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" height="75" alt="Material UI" /> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="75" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="75" /> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="75" />  
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" height="75" alt="Heroku" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="75" /> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="75" />  
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="75"/>
+</div></td></tr></table>
+
+-->
+
+## 🚀 Programming Languages:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![TypeScript](https://img.shields.io/badge/TypeScript-3670A0?style=for-the-badge&logo=typeScript&logoColor=ffdd54)
+
+
+
+## 🖍 Designing:
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
+
+## 🎨 Front-end:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![MUI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) 
+![Vue](https://img.shields.io/badge/Vue-DD0031?style=for-the-badge&logo=vue&logoColor=white) 
+![Next](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) 
+![Kotlin](https://img.shields.io/badge/kotlin-3670A0?style=for-the-badge&logo=kotlin&logoColor=ffdd54)
+![Flutter](https://img.shields.io/badge/Flutter-3670A0?style=for-the-badge&logo=flutter&logoColor=ffdd54) 
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=whit)
+![ReactNative](https://img.shields.io/badge/ReactNative-5C2D91?style=for-the-badge&logo=reactnative&logoColor=whit)
+![WordPress](https://img.shields.io/badge/WordPress-5C2D91?style=for-the-badge&logo=wordpress&logoColor=whit)
+![Elementor](https://img.shields.io/badge/Elementor-5C2D91?style=for-the-badge&logo=elementor&logoColor=whit)
+
+
+## ⛏ Back-end:
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=whit)
+![Dart](https://img.shields.io/badge/dart-3670A0?style=for-the-badge&logo=dart&logoColor=ffdd54) 
+![WordPress](https://img.shields.io/badge/WordPress-5C2D91?style=for-the-badge&logo=wordpress&logoColor=whit)
+
+## ⚡ Database:
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![MS SQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 	
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
+
+## 💻 Hosting:
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
+![Github Pages](https://img.shields.io/badge/GitHub_pages-100000?style=for-the-badge&logo=github&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
+## 🤖 Machine Learning:
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) 
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
+
+## ⚙ Tools:
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
+![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) 
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Azure Devops](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+![NX Workspace](https://img.shields.io/badge/workspace-143157?style=for-the-badge&logo=NX&logoColor=white)
+
+## 🛠 Operating Systems:
+![Linux Mint 21](https://img.shields.io/badge/Linux_Mint_21-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
+![Windows 10](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+<br>
 
 # My Github Stats
-![](https://github-readme-stats.vercel.app/api?username=devlahirudinelka&show_icons=true&&hide_border=true&bg_color=0D1117&text_color=ffffff)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devlahirudinelka&layout=compact&theme=dark&hide_border=true&bg_color=0D1117)](https://github.com/devlahirudinelka/github-readme-stats)
-
-[![devlahirudinelka's github activity graph](https://activity-graph.herokuapp.com/graph?username=devlahirudinelka&theme=react-dark)](https://github.com/devlahirudinelka/github-readme-activity-graph)
+<a href="http://www.github.com/devlahirudinelka"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=devlahirudinelka&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="devlahirudinelka's GitHub stats" /></a>
+<br>
+<a href="http://www.github.com/devlahirudinelka"><img src="https://github-readme-streak-stats.herokuapp.com/?user=devlahirudinelka&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<br>
+<a href="https://github.com/devlahirudinelka" align="left"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=devlahirudinelka&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=devlahirudinelka&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
+## 🌐 Socials
+<div align="center">  
+  <a href="https://www.github.com/devlahirudinelka" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/devlahirudinelka/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://stackoverflow.com/users/22506699/devlahirudinelka" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=Stack%20Overflow&logoColor=white" /></a>
+  <a href="https://twitter.com/LahiruYapa2" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.dev.to/rashmi_w" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
+  <a href="https://www.behance.net/devlahirudinelka" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=behance&logoColor=white" /></a>
+  </div>
 
+<br>
+<div align="center">
 
-## :link: Connect with me:
-
-<p align="center" style="background:blue">
-  <a href="https://www.instagram.com/lahirud.k.yapa/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-lahirud.k.yapa-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-<a href="https://www.linkedin.com/in/lahiru-yapa/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-lahiruyapa-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
- <a href="https://twitter.com/LahiruYapa2" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-LahiruYapa2-05122A?style=flat&logo=twitter" alt="twitter"/>
-</a>
- <a href="https://www.reddit.com/user/lahiru_d_k_yapa" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-lahiru_d_k_yapa-05122A?style=flat&logo=reddit" alt="reddit"/>
-</a>
- <a href="https://www.facebook.com/lahiru.yapa.10/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-lahiru.yapa.10-05122A?style=flat&logo=facebook" alt="facebook"/>
-</a>
-</p>
-
-<br />
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+![Profile views counter](https://komarev.com/ghpvc/?username=devlahirudinelka&&style=flat-square)  
+</div>
 
 
 
----
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-[html5]: https://en.wikipedia.org/wiki/HTML5
-[vscode]: https://code.visualstudio.com/
-[twitter]: https://twitter.com/LahiruYapa2
-[instagram]: https://www.instagram.com/lahirud.k.yapa/
-[linkedin]: https://www.linkedin.com/in/lahiru-yapa/
-[reddit]: https://www.reddit.com/user/lahiru_d_k_yapa
-[facebook]: https://www.facebook.com/lahiru.yapa.10/
+<!--
 
+### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
+-->
