@@ -32,8 +32,7 @@ I started my coding journey in 2019 when I started doing my degree in Software E
 
 <br/>  
 
-<a href="https://twitter.com/LahiruYapa2_" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/Rashmi_W_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
+
                   
 <!--
 
