@@ -1,12 +1,16 @@
+<p align="center">
+  <img src="https://komarev.com/ghpSure! Here's an engaging template for your GitHub profile README file:
+
+```markdown
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4000&pause=500&color=00FF00&background=000000&center=true&vCenter=true&width=600&height=80&lines=Hello+%F0%9F%91%8B%2C+I'm+Lahiru+D+K+Yapa" alt="Typing SVG">
+  <a href="https://github.com/devlahirudinelka/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=600&lines=Hello+%F0%9F%91%8B%2C+I'm+Lahiru+D+K+Yapa"></a>
 </h1>
 
 ---
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
-
 <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+## About Me
 
 - 🌍 Based in Colombo, Sri Lanka
 - 💼 Founder of [Nextzela Technologies](https://nextzelatech.com)
@@ -102,4 +106,10 @@
   <a href="https://www.behance.net/devlahirudinelka" target="_blank">
     <img src="https://img.shields.io/badge/Behance-053eff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance">
   </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=devlahirudinelka&&style=flat-square" alt="Profile views counter">
 </p>
